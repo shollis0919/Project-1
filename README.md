@@ -20,4 +20,7 @@ Overall, we can see that more money is being spent to make movies as time passes
 
 
 Resources used for code:
-Inflation adjustment: # https://towardsdatascience.com/the-easiest-way-to-adjust-your-data-for-inflation-in-python-365490c03969
+Inflation adjustment:  https://towardsdatascience.com/the-easiest-way-to-adjust-your-data-for-inflation-in-python-365490c039
+https://sparkbyexamples.com/pandas/pandas-convert-string-to-integer/#:~:text=Alternatively%2C%20you%20can%20convert%20all,'Fee'%20column%20to%20int.
+https://stackoverflow.com/questions/25668828/how-to-create-colour-gradient-in-python
+https://www.tutorialspoint.com/matplotlib/matplotlib_setting_ticks_and_tick_labels.htm
